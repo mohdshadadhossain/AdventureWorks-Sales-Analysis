@@ -1,6 +1,6 @@
 # Adventure Works Sales Data Analysis
 
-Overview
+## Overview
 
 This project aims to provide solutions to the business challenges faced by Adventure Works Company. The analysis leverages the Adventure Works dataset to explore various aspects of the company's sales data from 2015 to 2017. The goal is to derive key insights into sales performance, profitability, and customer demographics, all of which are critical for targeting and segmentation strategies.
 
@@ -9,9 +9,9 @@ The insights from this analysis are intended to assist the company in making inf
 # Tools and Technologies
 This analysis was performed using the following tools and technologies:
 
-SAS University Edition: For statistical analysis, including summary statistics and the correlation matrix to uncover patterns and relationships between key variables.
-Power BI: For interactive visualizations that provide an intuitive view of the data and help identify high-performing regions, categories, and products.
-Microsoft Excel: For additional data manipulation and reporting.
+1: SAS University Edition: For statistical analysis, including summary statistics and the correlation matrix to uncover patterns and relationships between key variables.
+2: Power BI: For interactive visualizations that provide an intuitive view of the data and help identify high-performing regions, categories, and products.
+3: Microsoft Excel: For additional data manipulation and reporting.
 
 # Analysis Approach
 The analysis focuses on understanding how sales, profitability, and customer demographics are interrelated. Specifically, the following methods were used:
