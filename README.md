@@ -10,7 +10,11 @@ The insights from this analysis are intended to assist the company in making inf
 This analysis was performed using the following tools and technologies:
 
 1: SAS University Edition: For statistical analysis, including summary statistics and the correlation matrix to uncover patterns and relationships between key variables.
+
+
 2: Power BI: For interactive visualizations that provide an intuitive view of the data and help identify high-performing regions, categories, and products.
+
+
 3: Microsoft Excel: For additional data manipulation and reporting.
 
 # Analysis Approach
