@@ -34,7 +34,7 @@ Visualizations: Various graphs, charts, and dashboards were created to provide a
 # How to Use the Power BI Report
 Download the Power BI report file Adventure Works Dashboard.pbix. Install Power BI Desktop, if you don't have it installed already. Open Power BI Desktop and open the downloaded file. Once the report is loaded, you can interact with the visuals, apply filters, and explore the customer churn analysis.
 
-Files Included
+# Files Included
 
 SAS Analysis File: You can find the SAS file used for statistical analysis in the repository.
 
