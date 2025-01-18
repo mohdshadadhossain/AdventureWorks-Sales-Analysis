@@ -31,10 +31,9 @@ Correlation Analysis: A correlation matrix was applied to explore relationships 
 
 Visualizations: Various graphs, charts, and dashboards were created to provide a visual representation of the data and highlight key trends and patterns.
 
-
+# How to Use the Power BI Report
+Download the Power BI report file Churn Case Study.pbix. Install Power BI Desktop, if you don't have it installed already. Open Power BI Desktop and open the downloaded file. Once the report is loaded, you can interact with the visuals, apply filters, and explore the customer churn analysis.
 Files Included
-
-
 
 
 SAS Analysis File: You can find the SAS file used for statistical analysis in the repository.
